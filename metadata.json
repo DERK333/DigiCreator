@@ -1,0 +1,6 @@
+{
+  "name": "DigiCreator",
+  "description": "An AI-powered digital product generator and shop manager for creative entrepreneurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
